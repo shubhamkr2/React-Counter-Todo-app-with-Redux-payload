@@ -4,7 +4,7 @@ let initialState = {
   count: 0,
 };
 
-const reducer = (state = initialState, action) => {
+const counterReducer = (state = initialState, action) => {
   switch (action.type) {
     case INC: {
       return {
@@ -21,4 +21,4 @@ const reducer = (state = initialState, action) => {
   }
 };
 
-export { reducer };
+export { counterReducer };

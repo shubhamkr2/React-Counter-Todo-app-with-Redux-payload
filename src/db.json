@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rahul123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "rahul@123",
+      "password": "rahul123"
+    },
+    {
+      "id": 2,
+      "username": "ankit123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "ankit@123",
+      "password": "ankit123"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "username": "rahul123",
+      "title": "Hazelnut Brownies",
+      "status": false
+    },
+    {
+      "id": 2,
+      "username": "ankit123",
+      "title": "Hazelnut Brownies",
+      "status": false
+    },
+    {
+      "id": 3,
+      "username": "rahul123",
+      "title": "Hazelnut Brownies",
+      "status": false
+    },
+    {
+      "id": 4,
+      "username": "ankit123",
+      "title": "Hazelnut Brownies",
+      "status": false
+    },
+    {
+      "id": 5,
+      "username": "rahul123",
+      "title": "Hazelnut Brownies",
+      "status": false
+    },
+    {
+      "id": 6,
+      "username": "ankit123",
+      "title": "Hazelnut Brownies",
+      "status": false
+    },
+    {
+      "id": 7,
+      "username": "rahul123",
+      "title": "Hazelnut Brownies",
+      "status": true
+    },
+    {
+      "id": 8,
+      "username": "ankit123",
+      "title": "Hazelnut Brownies",
+      "status": true
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka"
+    }
+  ]
+}
